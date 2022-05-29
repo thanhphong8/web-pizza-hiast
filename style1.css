@@ -1,0 +1,82 @@
+.row{float:left;width:100%}
+header{background-color:#ffe5cc; height:15%}
+header img{width:20%; height:75%; margin-left:40%; margin-top:1%}
+
+
+nav{background-color:#DB2626}
+nav table{height:8%; padding-left:20px ,0}
+nav table tr td{text-align:center; font-size:25px; font-family:arial; font-style:bold; color:white}
+
+.tieude marquee{color:white;background-color:#FF8C00; height:5%; width:100%; font-family:arial; font-size:20px; padding-top:10px}   
+
+.banner img{width:100%; height:45%; margin-top:0%}
+.banner2 img{width:50%; height:35%; float:left; margin-top:0%}
+.banner3 img{width:50%; height:35%; float:right}
+
+
+.t{width:70%; color:white; background-color:#db2626; height:5%; margin-top:24%}
+.t p{margin-left:45%; font-size:20px; font-family:arial; font-style:bold; padding-top:6px}
+
+.img img{width:23%; height:25%; margin-top:2%}
+.text .gia1{float:left; background-color:yellow;width:20%; margin-left:1%; height:2%; text-align:center; font-family:arial}
+.text .gia2{float:left;background-color:yellow;width:20%; margin-left:4%; height:2%; text-align:center; font-family:arial}
+.text .gia3{float:left;background-color:yellow;width:20%; margin-left:3%; height:2%; text-align:center; font-family:arial}
+
+.image{margin-top:2%}
+.image img{width:23%; height:25%}
+
+.text2 .gia4{float:left; background-color:yellow;width:20%; margin-left:1%; height:2%; text-align:center; font-family:arial}
+.text2 .gia5{float:left;background-color:yellow;width:20%; margin-left:4%; height:2%; text-align:center; font-family:arial}
+.text2 .gia6{float:left;background-color:yellow;width:20%; margin-left:3%; height:2%; text-align:center; font-family:arial}
+
+
+.images{margin-top:2%}
+.images img{width:23%; height:25%}
+
+
+.text3 .gia7{float:left; background-color:yellow;width:20%; margin-left:1%; height:2%; text-align:center; font-family:arial}
+.text3 .gia8{float:left;background-color:yellow;width:20%; margin-left:4%; height:2%; text-align:center; font-family:arial}
+.text3 .gia9{float:left;background-color:yellow;width:20%; margin-left:3%; height:2%; text-align:center; font-family:arial}
+
+
+#slideright{background-color:#db2626; width:20%; height:30%; float:right; position:absolute;top:128%; left:76%; color:white; font-family:arial; font-size:25px; text-align:center}
+#slideright ul li{text-align:left; font-size:20px;padding-top:10px;padding-left:10px}
+#slideright .danhmuc{background-color:#440101; margin-top:-12%;height:16%; padding-top:10px}
+.thongbao{background-color:#440101; margin-top:-12%;height:16%; padding-top:8px;text-align:center;font-family:arial;font-size:25px;color:white}
+#slideright2{background-color:#db2626; width:20%; height:40%; float:right; position:absolute;top:166%; left:76%}
+#slideright2 p{font-size:12px; text-align:justify; padding:12px; color:white; font-family:arial}
+
+
+
+.diachi{width:100%;height:30%;background-color:#440101;margin-top:8%}
+.infor {background: #440101}
+.infor ul li {list-style: none;}
+#infor {
+	margin: 0 50px;
+	display: flex;
+	padding-bottom: 10px;
+}
+#infor h1{color:#fff; font-family:arial;font-size:22px}
+#infor .a {
+	color: #fff;
+	font-size: 20px;
+	margin: 5px 0;
+	font-family:arial}
+#infor .b {color: white; font-style:italic; font-family:arial}
+.left {flex: 2;	margin-top: 17px;}
+.center {flex: 1.5;	margin-top: 17px; margin-right:100px}
+.right {
+	flex: 1;
+	margin-top:16px;
+	margin-right:24px;
+	text-align: center;}
+.right img {
+	width: 30px;
+	height: 30px;
+    margin-left: 22px}
+.right p {margin-left: 17px;}
+.right h2{color:#fff; font-family:arial;font-size:20px}
+
+
+.footer{background-color:#ffe5cc; width:100%; height:8%;margin-top:12px}
+.footer img{margin-left:42%; width:15%; margin-top:5px}
